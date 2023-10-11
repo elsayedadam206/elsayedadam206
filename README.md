@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Esayed Adam and i'm Data Analyses
 # 💫 About Me:
 🔭 I’m currently working on Select<br>👯 I’m looking to collaborate on BI Developer<br>🤝 I’m looking for help with SQL<br>🌱 I’m currently learning Data warehouse<br>💬 Ask me about data analyses<br>
 
